@@ -30,6 +30,7 @@ PACKAGES=(
 	virt-manager-common
 	soundkonverter
 	tmux
+	waybar
 	waypipe
 	wdisplays
 	yt-dlp
