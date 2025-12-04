@@ -64,5 +64,3 @@ dnf5 remove -y "${UNINSTALL_PACKAGES[@]}"
 #### Example for enabling a System Unit File
 
 systemctl enable podman.socket
-systemctl enable niri.service
-systemctl enable dms
