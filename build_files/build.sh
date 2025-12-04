@@ -22,8 +22,10 @@ PACKAGES=(
 	emacsclient
 	emacs-filesystem
 	fuzzel
+	gnome-keyring
 	kid3
 	lolcat
+	nautilus
 	niri
 	okular
 	soundkonverter
@@ -31,6 +33,8 @@ PACKAGES=(
 	waybar
 	waypipe
 	wdisplays
+	xdg-desktop-portal-gnome
+	xdg-desktop-portal-gtk
 	yt-dlp
 )
 
