@@ -26,8 +26,6 @@ PACKAGES=(
 	lolcat
 	niri
 	okular
-	virt-manager
-	virt-manager-common
 	soundkonverter
 	tmux
 	waybar
