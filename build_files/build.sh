@@ -11,19 +11,10 @@ set -ouex pipefail
 
 dnf5 -y copr enable avengemedia/dms
 
-# Add Vivaldi repo
-
-tee /etc/yum.repos.d/vivaldi.repo <<'EOF'
-[vivaldi]
-name=vivaldi
-baseurl=https://repo.vivaldi.com/archive/rpm/x86_64
-enabled=1
-gpgcheck=1
-gpgkey=https://repo.vivaldi.com/archive/linux_signing_key.pub
-EOF
-
 PACKAGES=(
+	aerc
 	bat
+	calibre
 	cosmic-term
 	dms
 	emacs
@@ -31,12 +22,14 @@ PACKAGES=(
 	emacsclient
 	emacs-filesystem
 	fuzzel
+	kid3
+	lolcat
 	niri
 	okular
 	virt-manager
 	virt-manager-common
+	soundkonverter
 	tmux
-	vivaldi-stable
 	waypipe
 	wdisplays
 	yt-dlp
