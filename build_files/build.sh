@@ -24,8 +24,6 @@ EOF
 
 PACKAGES=(
 	bat
-	claws-mail
-	claws-mail-plugins
 	cosmic-term
 	dms
 	emacs
@@ -36,10 +34,10 @@ PACKAGES=(
 	lolcat
 	niri
 	okular
-	pandoc-pdf
 	virt-manager
 	virt-manager-common
 	tmux
+	vivaldi-stable
 	waypipe
 	wdisplays
 	yt-dlp
