@@ -31,7 +31,6 @@ PACKAGES=(
 	emacsclient
 	emacs-filesystem
 	fuzzel
-	lolcat
 	niri
 	okular
 	virt-manager
