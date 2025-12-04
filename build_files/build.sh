@@ -15,6 +15,7 @@ PACKAGES=(
 	aerc
 	bat
 	calibre
+	cosmic-notifications
 	cosmic-term
 	dms
 	emacs
@@ -33,6 +34,7 @@ PACKAGES=(
 	waybar
 	waypipe
 	wdisplays
+	xdg-desktop-portal-cosmic
 	xdg-desktop-portal-gnome
 	xdg-desktop-portal-gtk
 	yt-dlp
