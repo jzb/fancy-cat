@@ -40,7 +40,6 @@ PACKAGES=(
 	virt-manager
 	virt-manager-common
 	tmux
-	vivaldi-stable
 	waypipe
 	wdisplays
 	yt-dlp
