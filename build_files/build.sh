@@ -15,8 +15,6 @@ PACKAGES=(
 	aerc
 	bat
 	calibre
-	cosmic-notifications
-	cosmic-term
 	dms
 	emacs
 	emacs-common
@@ -34,7 +32,6 @@ PACKAGES=(
 	waybar
 	waypipe
 	wdisplays
-	xdg-desktop-portal-cosmic
 	xdg-desktop-portal-gnome
 	xdg-desktop-portal-gtk
 	yt-dlp
@@ -43,6 +40,8 @@ PACKAGES=(
 UNINSTALL_PACKAGES=(
 	waydroid
 	waydroid-selinux
+	lutris
+	amd-gpu-firmware
 )
 
 # this installs packages from the Fedora repositories
